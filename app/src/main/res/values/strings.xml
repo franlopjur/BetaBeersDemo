@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BetaBeers Demo</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- ACTIVITY DETAIL -->
+    <string name="activity_detail__title">Detail</string>
+    <string name="activity_detail__vibrant">Vibrant</string>
+    <string name="activity_detail__vibrant_light">Vibrant Light</string>
+    <string name="activity_detail__vibrant_dark">Vibrant Dark</string>
+    <string name="activity_detail__muted">Muted</string>
+    <string name="activity_detail__muted_light">Muted Light</string>
+    <string name="activity_detail__muted_dark">Muted Dark</string>
+</resources>
